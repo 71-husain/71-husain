@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ansari Husain<br>
+Hi 👋, I'm <b> Ansari Husain</b><br>
 # Full Stack Web Developer
 <br>I'm a passionate Full Stack Web Developer and final year B.Tech student with a strong foundation in building modern, scalable web applications. Over the past year, I’ve immersed myself in designing and developing real-world projects — from dynamic social platforms to robust backend APIs.<br><br>My core expertise lies in React.js, Next.js, and Node.js, with a deep understanding of MongoDB, RESTful APIs, and authentication systems like NextAuth and Clerk. I love working across the stack — whether it’s crafting seamless user interfaces or architecting secure backend logic.<br><br>My most recent project, ReelsPro, is a full-featured social media application . It includes features like user authentication, media uploads, interactive feed, real-time likes/comments, and a responsive UI optimized for mobile and desktop.
 
@@ -8,7 +8,7 @@ Hi 👋, I'm Ansari Husain<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/husain-ansari-7530572bb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/71_husainAns) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansarihusain9510@gmail.com) 
 
 # 💻 Tech Stack:
-# frontEnd Development
+# Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
