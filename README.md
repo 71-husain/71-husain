@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Ansari Husain<br> #Full Stack Web Developer<br>I'm a passionate Full Stack Web Developer and final year B.Tech student with a strong foundation in building modern, scalable web applications. Over the past year, I’ve immersed myself in designing and developing real-world projects — from dynamic social platforms to robust backend APIs.<br><br>My core expertise lies in React.js, Next.js, and Node.js, with a deep understanding of MongoDB, RESTful APIs, and authentication systems like NextAuth and Clerk. I love working across the stack — whether it’s crafting seamless user interfaces or architecting secure backend logic.<br><br>My most recent project, ReelsPro, is a full-featured social media application . It includes features like user authentication, media uploads, interactive feed, real-time likes/comments, and a responsive UI optimized for mobile and desktop.
+Hi 👋, I'm Ansari Husain<br>
+# Full Stack Web Developer
+<br>I'm a passionate Full Stack Web Developer and final year B.Tech student with a strong foundation in building modern, scalable web applications. Over the past year, I’ve immersed myself in designing and developing real-world projects — from dynamic social platforms to robust backend APIs.<br><br>My core expertise lies in React.js, Next.js, and Node.js, with a deep understanding of MongoDB, RESTful APIs, and authentication systems like NextAuth and Clerk. I love working across the stack — whether it’s crafting seamless user interfaces or architecting secure backend logic.<br><br>My most recent project, ReelsPro, is a full-featured social media application . It includes features like user authentication, media uploads, interactive feed, real-time likes/comments, and a responsive UI optimized for mobile and desktop.
 
 
 ## 🌐 Socials:
@@ -15,8 +17,6 @@ Hi 👋, I'm Ansari Husain<br> #Full Stack Web Developer<br>I'm a passionate Ful
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=71-husain&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=71-husain&limit=5&theme=dark&combine_all_yearly_contributions=true)
